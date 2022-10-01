@@ -6,7 +6,7 @@
   Data visualization | SQL |
 - 🌱 I’m currently learning Data Dcience and ML Algorithms
 - 💞️ I’m looking to collaborate on any platform 
-- 📫 How to reach me www.linkedin.com/in/ankit-sanap-15323399 ---->This is my Linkedin profile Feel free to ask questions 
+- 📫 How to reach me www.linkedin.com/in/orangepilot0092---->This is my Linkedin profile Feel free to ask questions 
 
 <!---
 ankitsanap/ankitsanap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
